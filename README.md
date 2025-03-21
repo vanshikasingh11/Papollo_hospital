@@ -18,4 +18,6 @@ This Power BI dashboard provides an interactive and intuitive way to analyze hea
 ✅ Disease & Treatment Trends – Most common diagnoses, treatment success rates.
 
 The dashboard is built using Power BI with a focus on data visualization and real-time analytics for enhanced decision-making in healthcare environments.
+
+
 ![image](https://github.com/user-attachments/assets/7804c2f5-7404-4bcf-a307-34d6a380a8a8)
